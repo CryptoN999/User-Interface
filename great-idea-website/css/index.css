@@ -64,3 +64,80 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+#footer{
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav {
+	display: inline-block;
+	margin-top: 30px;
+	color: darkgrey;
+}
+
+.logo {
+	display: inline-block;
+	margin-left: 150px;
+	margin-top: 30px;
+}
+
+h1 {
+	display: inline-block;
+	font-size: 70px;
+	text-align: center;
+	padding: 30px;
+	margin-top: 60px;
+	vertical-align: top;
+}
+
+button {
+	display: inline-block;
+	font-size: 15px;
+	padding: 1px 30px;
+	vertical-align: left;
+	margin: right;
+}
+
+.header-img {
+	display: inline-block;
+	margin-bottom: 50px;
+	padding-left: 30px;
+}
+
+.topSection {
+	display: inline-block;
+	width: 900px;
+	border: 1px solid black;
+	padding: 5px 30px;
+	vertical-align: top;
+}
+
+.Features {
+	display: inline-block;
+	width: 445px;
+	padding: 30px;
+}
+
+.About {
+	display: inline-block;
+	width: 445px;
+}
+
+.Services {
+	display: inline-block;
+	width: 445px;
+}
+
+.Product {
+	display: inline-block;
+	width: 445px;
+}
+
+.Vision {
+	display: inline-block;
+	width: 445px;
+}
+
+
