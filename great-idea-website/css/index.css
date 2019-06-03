@@ -64,3 +64,96 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.footer{
+    display: table;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {
+	box-sizing: border-box;
+	margin-top: 30px;
+	color: darkgrey;
+}
+
+.logo {
+	box-sizing: border-box;
+	margin-left: 150px;
+	margin-top: 30px;
+}
+
+h1 {
+	display: inline-block;
+	font-size: 70px;
+	padding: 30px;
+	margin-top: 60px;
+	vertical-align: top;
+	text-align: center;
+}
+
+button {
+	font-size: 15px;
+	padding: 1px 30px;
+	align-items: left;
+	margin: left;
+}
+
+.header-img {
+	display: inline-block;
+	margin-bottom: 50px;
+	padding-left: 30px;
+}
+
+.topSection {
+	display: inline-block;
+	width: 900px;
+	border-inline: 1px solid black;
+	vertical-align: top;
+}
+
+.Features {
+	display: inline-block;
+	width: 445px;
+	padding: 30px;
+}
+
+.About {
+	display: inline-block;
+	width: 445px;
+}
+
+.Services {
+	display: inline-block;
+	width: 200px;
+}
+
+.Product {
+	display: inline-block;
+	width: 200px;
+	text-align: middle;
+}
+
+.Vision {
+	display: inline-block;
+	width: 200px;
+}
+
+.h3 {
+	display: inline-block;
+	size: 300px;
+	text-align: center;
+	margin: auto;
+}
+
+hr {
+	width: 880px;
+	text-align: center;
+}
+
+.middleSection {
+	width: 900px;
+	border-inline: 1px solid black;
+	vertical-align: top;
+}
+
